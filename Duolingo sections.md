@@ -4,19 +4,22 @@
 
 Tapping on the arrow takes you to the full-screen carousel in the second screenshot. That arrow: it looks like an accordion, which usually is on the right-hand side. I’m still expecting for the Explorer section to collapse when I tap it. But it doesn’t.
 
-![[duolingo-sections-1.png]]
+![Duolingo learning path showing the current section](./assets/duolingo-sections-1.png)
+
 
 ***
 
 *Continue* take you to the current lesson. Swiping right, you see the other sections: they're not active, but it’s possible to jump to them.
 
-![[duolingo-sections-2.png]]
+![Screen showing the section in a course](./assets/duolingo-sections-2.png)
+
 
 ***
 
 *Review* takes you to the first Unit of the section, which is an operation one can perform also on the main screen (learning path).
 
-![[duolingo-sections-3.png]]
+![A completed section](./assets/duolingo-sections-3.png)
+
 
 ## Section naming
 
