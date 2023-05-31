@@ -1,6 +1,6 @@
 # LinkedIn Confirmshaming
 
-LinkedIn employs a deceptive pattern called [confirm shaming][1] to keep people subscribed to their Premium service.
+LinkedIn employs a deceptive pattern called confirm shaming[1] to keep people subscribed to their Premium service.
 
 ![The screen with all benefits of the subscription listed](./assets/LI-1.png)
 
