@@ -1,4 +1,4 @@
-# Duoling sections
+# Duolingo sections
 
 ## Is that an accordion?
 
