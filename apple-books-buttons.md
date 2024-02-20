@@ -8,6 +8,6 @@ I noticed a similar issue on macOS’s Music, where the play button is probably 
 
 ![Screenshot showing the size of macOS‘s Music play buttons](./assets/apple-music-buttons.jpg)
 
-Given Apple’s many accessibility settings, is this an oversight? Am I not seeing the setting that would help with this issue?
+Given Apple’s many accessibility settings, is this an oversight? Or am I not seeing the setting that would help with this issue?
 
 #Accessibility #Usability #UX
